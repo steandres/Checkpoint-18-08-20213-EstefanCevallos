@@ -1,0 +1,63 @@
+  503  git init
+  504  git remote add origin https://github.com/steandres/Checkpoint-18-08-20213-EstefanCevallos.git
+  505  ls
+  506  cd Checkpoint-18-08-20213-EstefanCevallos/
+  507  git init
+  508  git remote add origin https://github.com/steandres/Checkpoint-18-08-20213-EstefanCevallos.git
+  509  touch main.js index.js
+  510  rm index.js
+  511  touch index.html
+  512  git status
+  513  git add.
+  514  git add .
+  515  git commit -m "commit 01 de EstefanCevallos"
+  516  git log
+  517  git push -u origin main
+  518  git branch feature
+  519  git checkout feature
+  520  mkdir Hardware Software SeguridadInformatica
+  521  cd Hardware/
+  522  touch resumen.txt
+  523  cd ..
+  524  cd Software/
+  525  touch resumen.txt
+  526  cd ..
+  527  cd SeguridadInformatica/
+  528  touch resumen.txt
+  529  git status
+  530  git add .
+  531  git commit -m "commit 02 de EstefanCevallos"
+  532  git log
+  533  git push origin feature
+  534  git checkout main
+  535  ls
+  536  git mv main.js resumenHardware.txt
+  537  mv main.js resumenHardware.txt
+  538  git mv main.js resumenHardware.txt
+  539  git chekout feature
+  540  git checkout feature
+  541  cd ..
+  542  ls
+  543  git status
+  544  git add .
+  545  git commit -m "commit 03 de EstefanCevallos"
+  546  git push origin feature
+  547  git checkout main
+  548  ls
+  549  git mv main.js resumenHardware.txt
+  550  git mv index.html resumenSoftware.txt
+  551  vim resumenHardware.txt 
+  552  vim resumenHardware.txt 
+  553  vim resumenSoftware.txt 
+  554  vim resumenSoftware.txt 
+  555  git status
+  556  git add .
+  557  git commit -m "commit 04 de EstefanCevallos"
+  558  git status
+  559  git log
+  560  fc -l
+  561  history | grep -E '^ [0-9]+ '
+  562  history 40
+  563  history 80
+  564  history 63
+  565  history 63 > comandos.txt
