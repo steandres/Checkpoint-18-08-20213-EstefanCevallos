@@ -1,0 +1,4 @@
+3 ejemplos de software
+-navegadores web.
+-paquetes de ofimática.
+-antivirus.
